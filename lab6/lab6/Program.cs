@@ -10,7 +10,7 @@ namespace lab6
     {
         static void Main(string[] args)
         {// 2) the access expressions would be p[0]. p[1], p[2], p[3], and p[4]  
-            // 3)
+            //  3)
             string[] month = new string[12];
             month[0] = "January";
             month[1] = "February";
